@@ -6,5 +6,6 @@ namespace TaskManager_Ostanin.ViewModels
 {
     public class VM_Pages
     {
+        public VM_Tasks vm_tasks;
     }
 }
